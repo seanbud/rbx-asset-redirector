@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Roblox Asset Redirector",
+	"version": "1.0",
+	"description": "Converts rbxassetid:// to a Roblox Library URL",
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+	"permissions": ["activeTab"],
+	"browser_action": {
+		"default_icon": {
+			"48": "icon.png"
+		},
+		"default_popup": "popup.html"
+	}
+}
