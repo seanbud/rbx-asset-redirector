@@ -13,11 +13,6 @@ Paste or enter any `rbxassetid://<ID>` link, and the extension redirects you to 
 
 ![Demo GIF](docs/demo.gif)
 
-https://i.gyazo.com/90807074cad53ff18e6eb056d3443b5e.mp4
-
-```html
-<!-- Example HTML usage (popup.html) -->
-<p>Paste the rbxassetid:// link below:</p>
-<input type="text" id="inputField" />
-<button id="redirectBtn">Redirect</button>
-```
+<video src="https://i.gyazo.com/90807074cad53ff18e6eb056d3443b5e.mp4" controls width="500">
+  Your browser does not support the video tag.
+</video>
