@@ -1,17 +1,19 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Roblox Asset Redirector",
-	"version": "1.0",
-	"description": "Converts rbxassetid:// to a Roblox Library URL",
-	"background": {
-		"scripts": ["background.js"],
-		"persistent": false
+	"version": "1.1",
+	"description": "Quickly redirect to Roblox assets by ID or Link.",
+	"icons": {
+		"128": "icon.svg"
 	},
-	"permissions": ["activeTab"],
-	"browser_action": {
+	"action": {
 		"default_icon": {
-			"48": "icon.png"
+			"128": "icon.svg"
 		},
 		"default_popup": "popup.html"
-	}
+	},
+	"permissions": [
+		"activeTab",
+		"scripting"
+	]
 }
