@@ -13,6 +13,5 @@ Paste or enter any `rbxassetid://<ID>` link, and the extension redirects you to 
 
 ![Demo GIF](docs/demo.gif)
 
-<video src="https://i.gyazo.com/90807074cad53ff18e6eb056d3443b5e.mp4" controls width="500">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/f085b8f0-c10e-45d1-9710-3a70c30a14ab
+
