@@ -14,6 +14,5 @@ For artists managing hundreds of assets, context switching between Studio and th
 3. Click **Redirect**.
 4. You'll be sent directly to the correct asset page on Roblox.
 
-![Demo GIF](docs/demo.gif)
+[Demo Video](https://github.com/user-attachments/assets/85eb5436-aef8-400c-887e-75f0b7b4c556)
 
-https://github.com/user-attachments/assets/f085b8f0-c10e-45d1-9710-3a70c30a14ab
