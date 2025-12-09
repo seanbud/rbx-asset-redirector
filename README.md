@@ -15,3 +15,5 @@ Paste or enter any `rbxassetid://<ID>` link, and the extension redirects you to 
 
 https://github.com/user-attachments/assets/f085b8f0-c10e-45d1-9710-3a70c30a14ab
 
+## Designed for The Artist's Workflow
+For artists managing hundreds of assets, context switching between Studio and the Web is a pain. This extension bridges that gap.
